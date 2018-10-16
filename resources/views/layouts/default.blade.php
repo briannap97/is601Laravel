@@ -15,7 +15,7 @@
         </div>
     </footer>
 </div>
-@include('includes.jsfooter')
+
 
 </body>
 </html>
